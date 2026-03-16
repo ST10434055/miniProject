@@ -9,13 +9,11 @@ namespace ProgrammeManagementSystem.Models
         public int AssignmentID { get; set; }
 
         public int LecturerID { get; set; }
-
         [ForeignKey("LecturerID")]
-        public Lecturer Lecturer { get; set; }
+        public Lecturer? Lecturer { get; set; }
 
         public int ModuleID { get; set; }
-
         [ForeignKey("ModuleID")]
-        public Module Module { get; set; }
+        public Module? Module { get; set; }
     }
 }

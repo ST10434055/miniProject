@@ -6385,23 +6385,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arion\\.nuget\\packages\\": {},
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arion\\source\\repos\\ProgrammeManagementSystem\\ProgrammeManagementSystem\\ProgrammeManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\ProgrammeManagementSystem.csproj",
       "projectName": "ProgrammeManagementSystem",
-      "projectPath": "C:\\Users\\arion\\source\\repos\\ProgrammeManagementSystem\\ProgrammeManagementSystem\\ProgrammeManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\arion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arion\\source\\repos\\ProgrammeManagementSystem\\ProgrammeManagementSystem\\obj\\",
+      "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\ProgrammeManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\arion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lab_services_student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6410,6 +6410,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6482,7 +6483,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
