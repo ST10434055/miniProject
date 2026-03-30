@@ -1,41 +1,36 @@
 ﻿@model IEnumerable<ProgrammeManagementSystem.Models.Registration>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Registrations";
 }
 
-<h1>Index</h1>
+<div class="section-header">
+    <h1 class="page-title mb-0">Registrations</h1>
+    <a asp-action="Create" class="btn btn-primary">Add New Registration</a>
+</div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Student)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Module)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Student.StudentID)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Module.ModuleID)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.RegistrationID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.RegistrationID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.RegistrationID">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="table-card">
+    <table class="table table-striped table-bordered table-hover align-middle mb-0">
+        <thead class="table-dark">
+            <tr>
+                <th>Student</th>
+                <th>Module</th>
+                <th class="actions-column">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Student?.FirstName @item.Student?.LastName</td>
+                    <td>@item.Module?.ModuleName</td>
+                    <td class="actions-column">
+                        <a asp-action="Edit" asp-route-id="@item.RegistrationID" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.RegistrationID" class="btn btn-sm btn-info text-white">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.RegistrationID" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

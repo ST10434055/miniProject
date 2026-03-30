@@ -1,57 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\views\\moduleassignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\moduleassignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\models\\moduleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:models\\moduleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\moduleassignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\moduleassignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\data\\migrations\\20260316092400_updaterelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:data\\migrations\\20260316092400_updaterelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\modules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\modules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\lecturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\controllers\\moduleassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\moduleassignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\moduleassignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\models\\moduleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:models\\moduleassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\data\\migrations\\20260316092400_updaterelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:data\\migrations\\20260316092400_updaterelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\controllers\\moduleassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:controllers\\moduleassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\documents\\github\\miniproject\\data\\migrations\\20260316085228_addprogrammetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|c:\\users\\lab_services_student\\source\\repos\\miniproject\\data\\migrations\\20260316085228_addprogrammetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A632113-79B4-7F99-81F4-3DB64F366DA4}|ProgrammeManagementSystem.csproj|solutionrelative:data\\migrations\\20260316085228_addprogrammetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,93 +110,309 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\ModuleAssignments\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\ModuleAssignments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\ModuleAssignments\\Create.cshtml",
-              "RelativeToolTip": "Views\\ModuleAssignments\\Create.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCUAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:35:45.455Z",
+              "WhenOpened": "2026-03-30T03:08:57.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModuleAssignment.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Models\\ModuleAssignment.cs",
-              "RelativeDocumentMoniker": "Models\\ModuleAssignment.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Models\\ModuleAssignment.cs",
-              "RelativeToolTip": "Models\\ModuleAssignment.cs",
-              "ViewState": "AgIAAAMAAAAAzczMzIwswA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:33:15.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Models\\Registration.cs",
-              "RelativeDocumentMoniker": "Models\\Registration.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Models\\Registration.cs",
-              "RelativeToolTip": "Models\\Registration.cs",
-              "ViewState": "AgIAAAgAAABwZmZmZmYrwA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:32:31.141Z",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:08:47.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Registrations\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Registrations\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Registrations\\Create.cshtml",
-              "RelativeToolTip": "Views\\Registrations\\Create.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:22:37.46Z",
+              "WhenOpened": "2026-03-30T03:08:39.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:08:29.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\ModuleAssignments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ModuleAssignments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\ModuleAssignments\\Index.cshtml",
+              "RelativeToolTip": "Views\\ModuleAssignments\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:08:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Registrations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registrations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Registrations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Registrations\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:08:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Modules\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Modules\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Modules\\Index.cshtml",
+              "RelativeToolTip": "Views\\Modules\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:07:53.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:07:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T03:07:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Models\\Registration.cs",
+              "RelativeToolTip": "Models\\Registration.cs",
+              "ViewState": "AgIAAAgAAABwZmZmZmYrwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:32:31.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Registrations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Registrations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Registrations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Registrations\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:22:37.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "RegistrationsController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Controllers\\RegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Controllers\\RegistrationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\RegistrationsController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Controllers\\RegistrationsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Controllers\\RegistrationsController.cs",
               "RelativeToolTip": "Controllers\\RegistrationsController.cs",
-              "ViewState": "AgIAAD0AAABAzszMzOw8wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAzMzMzMwKwIEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T09:19:28.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260316092400_UpdateRelationships.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Data\\Migrations\\20260316092400_UpdateRelationships.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20260316092400_UpdateRelationships.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Data\\Migrations\\20260316092400_UpdateRelationships.cs",
-              "RelativeToolTip": "Data\\Migrations\\20260316092400_UpdateRelationships.cs",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:24:01.025Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:05:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Lecturers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Lecturers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Lecturers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Lecturers\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:08:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T02:33:13.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAABAMzMzM3MpwEgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:06:19.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:05:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T02:54:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ModuleAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Models\\ModuleAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\ModuleAssignment.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Models\\ModuleAssignment.cs",
+              "RelativeToolTip": "Models\\ModuleAssignment.cs",
+              "ViewState": "AgIAAAMAAAAAzczMzIwswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:33:15.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADkAAACANjMzM7MiwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-30T02:33:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260316092400_UpdateRelationships.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Data\\Migrations\\20260316092400_UpdateRelationships.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20260316092400_UpdateRelationships.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Data\\Migrations\\20260316092400_UpdateRelationships.cs",
+              "RelativeToolTip": "Data\\Migrations\\20260316092400_UpdateRelationships.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:24:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAMzMzMzMrwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:03:00.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\ModuleAssignments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ModuleAssignments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Views\\ModuleAssignments\\Create.cshtml",
+              "RelativeToolTip": "Views\\ModuleAssignments\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:35:45.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ModuleAssignmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Controllers\\ModuleAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Controllers\\ModuleAssignmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ModuleAssignmentsController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Controllers\\ModuleAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Controllers\\ModuleAssignmentsController.cs",
               "RelativeToolTip": "Controllers\\ModuleAssignmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,71 +420,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Lecturers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Lecturers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Lecturers\\Index.cshtml",
-              "RelativeToolTip": "Views\\Lecturers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:08:19.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAABgZmZmZuYowCoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:06:19.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:05:57.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T09:05:52.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAgAAAAAAAhwAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:03:00.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "20260316085228_AddProgrammeTables.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Data\\Migrations\\20260316085228_AddProgrammeTables.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Data\\Migrations\\20260316085228_AddProgrammeTables.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20260316085228_AddProgrammeTables.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\miniProject\\Data\\Migrations\\20260316085228_AddProgrammeTables.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\miniProject\\Data\\Migrations\\20260316085228_AddProgrammeTables.cs",
               "RelativeToolTip": "Data\\Migrations\\20260316085228_AddProgrammeTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

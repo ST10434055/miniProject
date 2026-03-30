@@ -19,149 +19,149 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = ProgrammeManagementSystem
 build_property.RootNamespace = ProgrammeManagementSystem
-build_property.ProjectDir = C:\Users\lab_services_student\Documents\GitHub\miniProject\
+build_property.ProjectDir = C:\Users\lab_services_student\source\repos\miniProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Documents\GitHub\miniProject
+build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\source\repos\miniProject
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Home/Index.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Home/Privacy.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Lecturers/Create.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Lecturers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Lecturers/Delete.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Lecturers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Lecturers/Details.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Lecturers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Lecturers/Edit.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Lecturers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Lecturers/Index.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Lecturers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/ModuleAssignments/Create.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/ModuleAssignments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlQXNzaWdubWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/ModuleAssignments/Delete.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/ModuleAssignments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlQXNzaWdubWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/ModuleAssignments/Details.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/ModuleAssignments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlQXNzaWdubWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/ModuleAssignments/Edit.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/ModuleAssignments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlQXNzaWdubWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/ModuleAssignments/Index.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/ModuleAssignments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlQXNzaWdubWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Modules/Create.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Modules/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Modules/Delete.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Modules/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Modules/Details.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Modules/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Modules/Edit.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Modules/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Modules/Index.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Modules/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Registrations/Create.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Registrations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Registrations/Delete.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Registrations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Registrations/Details.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Registrations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Registrations/Edit.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Registrations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Registrations/Index.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Registrations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Shared/Error.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Students/Create.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Students/Delete.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Students/Details.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Students/Edit.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Students/Index.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/_ViewImports.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/_ViewStart.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Documents/GitHub/miniProject/Views/Shared/_Layout.cshtml]
+[C:/Users/lab_services_student/source/repos/miniProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lq2wpgd2ln

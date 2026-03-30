@@ -162,7 +162,7 @@ namespace ProgrammeManagementSystem.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool RegistrationExists(int id)
+        private bool RegistrationExists(int id) 
         {
             return _context.Registrations.Any(e => e.RegistrationID == id);
         }
