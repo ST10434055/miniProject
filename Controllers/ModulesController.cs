@@ -10,6 +10,9 @@ using ProgrammeManagementSystem.Models;
 
 namespace ProgrammeManagementSystem.Controllers
 {
+    using Microsoft.AspNetCore.Authorization;
+
+    [Authorize(Roles = "Student,Lecturer")]
     public class ModulesController : Controller
     {
         private readonly ApplicationDbContext _context;

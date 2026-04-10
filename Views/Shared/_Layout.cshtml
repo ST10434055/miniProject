@@ -24,27 +24,42 @@
 
                 <div class="collapse navbar-collapse" id="mainNavbar">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Students" asp-action="Index">Students</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Lecturers" asp-action="Index">Lecturers</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Modules" asp-action="Index">Modules</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Registrations" asp-action="Index">Registrations</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="ModuleAssignments" asp-action="Index">Module Assignments</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
+                        @if (User.Identity != null && User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("Student"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Home" asp-action="StudentHome">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Modules" asp-action="Index">Modules</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="ModuleAssignments" asp-action="Index">Module Assignments</a>
+                                </li>
+                            }
+                            else if (User.IsInRole("Lecturer"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Home" asp-action="LecturerHome">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Students" asp-action="Index">Students</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Lecturers" asp-action="Index">Lecturers</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Modules" asp-action="Index">Modules</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Registrations" asp-action="Index">Registrations</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="ModuleAssignments" asp-action="Index">Module Assignments</a>
+                                </li>
+                            }
+                        }
                     </ul>
 
                     <partial name="_LoginPartial" />

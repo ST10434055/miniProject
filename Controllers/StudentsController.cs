@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ using ProgrammeManagementSystem.Models;
 
 namespace ProgrammeManagementSystem.Controllers
 {
+    [Authorize(Roles = "Lecturer")]
     public class StudentsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -20,9 +22,22 @@ namespace ProgrammeManagementSystem.Controllers
         }
 
         // GET: Students
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Students.ToListAsync());
+            ViewData["CurrentFilter"] = searchString;
+
+            var students = from s in _context.Students
+                           select s;
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                students = students.Where(s =>
+                    s.FirstName.Contains(searchString) ||
+                    s.LastName.Contains(searchString) ||
+                    s.Email.Contains(searchString));
+            }
+
+            return View(await students.ToListAsync());
         }
 
         // GET: Students/Details/5
@@ -50,8 +65,6 @@ namespace ProgrammeManagementSystem.Controllers
         }
 
         // POST: Students/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("StudentID,FirstName,LastName,Email,PhoneNumber,YearOfStudy")] Student student)
@@ -82,8 +95,6 @@ namespace ProgrammeManagementSystem.Controllers
         }
 
         // POST: Students/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("StudentID,FirstName,LastName,Email,PhoneNumber,YearOfStudy")] Student student)

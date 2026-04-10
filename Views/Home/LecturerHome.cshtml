@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Lecturer Home";
+}
+
+<div class="text-center mb-5">
+    <h1 class="display-5 fw-bold">Lecturer Dashboard</h1>
+    <p class="lead text-muted">Welcome to the lecturer portal.</p>
+</div>
+
+<div class="row g-4">
+    <div class="col-md-6 col-lg-4">
+        <div class="card dashboard-card h-100">
+            <div class="card-body text-center">
+                <h4>Students</h4>
+                <p>View and manage students.</p>
+                <a asp-controller="Students" asp-action="Index" class="btn btn-primary">Open Students</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4">
+        <div class="card dashboard-card h-100">
+            <div class="card-body text-center">
+                <h4>Lecturers</h4>
+                <p>View and manage lecturers.</p>
+                <a asp-controller="Lecturers" asp-action="Index" class="btn btn-primary">Open Lecturers</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 col-lg-4">
+        <div class="card dashboard-card h-100">
+            <div class="card-body text-center">
+                <h4>Modules</h4>
+                <p>View and manage modules.</p>
+                <a asp-controller="Modules" asp-action="Index" class="btn btn-primary">Open Modules</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 col-lg-6">
+        <div class="card dashboard-card h-100">
+            <div class="card-body text-center">
+                <h4>Registrations</h4>
+                <p>View and manage registrations.</p>
+                <a asp-controller="Registrations" asp-action="Index" class="btn btn-primary">Open Registrations</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 col-lg-6">
+        <div class="card dashboard-card h-100">
+            <div class="card-body text-center">
+                <h4>Module Assignments</h4>
+                <p>View and manage module assignments.</p>
+                <a asp-controller="ModuleAssignments" asp-action="Index" class="btn btn-primary">Open Assignments</a>
+            </div>
+        </div>
+    </div>
+</div>

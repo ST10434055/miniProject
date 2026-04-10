@@ -1,61 +1,31 @@
 ﻿@{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = "Welcome";
 }
 
 <div class="text-center mb-5">
     <h1 class="display-5 fw-bold">Programme Management System</h1>
-    <p class="lead text-muted">
-        Manage students, lecturers, modules, registrations, and lecturer assignments from one dashboard.
-    </p>
+    <p class="lead text-muted">Please choose how you want to continue.</p>
 </div>
 
-<div class="row g-4">
-    <div class="col-md-6 col-lg-4">
-        <div class="card dashboard-card h-100">
+<div class="row justify-content-center g-4">
+    <div class="col-md-5">
+        <div class="card dashboard-card h-100 text-center">
             <div class="card-body">
-                <h4 class="card-title">Students</h4>
-                <p class="card-text">View, add, edit, and remove student records.</p>
-                <a asp-controller="Students" asp-action="Index" class="btn btn-primary">Open Students</a>
+                <h3 class="mb-3">Student</h3>
+                <p>Login or register as a student.</p>
+                <a href="/Identity/Account/Login?role=Student" class="btn btn-primary me-2">Student Login</a>
+                <a href="/Identity/Account/Register?role=Student" class="btn btn-outline-primary">Student Register</a>
             </div>
         </div>
     </div>
 
-    <div class="col-md-6 col-lg-4">
-        <div class="card dashboard-card h-100">
+    <div class="col-md-5">
+        <div class="card dashboard-card h-100 text-center">
             <div class="card-body">
-                <h4 class="card-title">Lecturers</h4>
-                <p class="card-text">Manage lecturer information and departments.</p>
-                <a asp-controller="Lecturers" asp-action="Index" class="btn btn-primary">Open Lecturers</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-6 col-lg-4">
-        <div class="card dashboard-card h-100">
-            <div class="card-body">
-                <h4 class="card-title">Modules</h4>
-                <p class="card-text">View and manage module records.</p>
-                <a asp-controller="Modules" asp-action="Index" class="btn btn-primary">Open Modules</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-        <div class="card dashboard-card h-100">
-            <div class="card-body">
-                <h4 class="card-title">Registrations</h4>
-                <p class="card-text">Register students to modules and view all registration data.</p>
-                <a asp-controller="Registrations" asp-action="Index" class="btn btn-primary">Open Registrations</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-6 col-lg-6">
-        <div class="card dashboard-card h-100">
-            <div class="card-body">
-                <h4 class="card-title">Module Assignments</h4>
-                <p class="card-text">Assign lecturers to modules and track those assignments.</p>
-                <a asp-controller="ModuleAssignments" asp-action="Index" class="btn btn-primary">Open Assignments</a>
+                <h3 class="mb-3">Lecturer</h3>
+                <p>Login or register as a lecturer.</p>
+                <a href="/Identity/Account/Login?role=Lecturer" class="btn btn-success me-2">Lecturer Login</a>
+                <a href="/Identity/Account/Register?role=Lecturer" class="btn btn-outline-success">Lecturer Register</a>
             </div>
         </div>
     </div>
